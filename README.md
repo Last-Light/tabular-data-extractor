@@ -9,4 +9,4 @@ You can visit the official guide [here](https://www.thepythoncode.com/article/ex
 - [Ghostscript](https://ghostscript.com/)
 
 ## Installation and usage
-- Download repository and open the implementation to your liking and edit the working directory and filename
+- Download repository and open the implementation to your liking and edit the working directory and pdf-name. Both implementations benefit from different exporting options. Refer to the source code for further examples (commented out code).
